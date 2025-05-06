@@ -1,1 +1,0 @@
-# stale-editorv2
